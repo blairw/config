@@ -28,8 +28,5 @@ Colour theme:
 Settings &rarr; User:
 
 - Font Family: `'Comic Code', Menlo, Monaco, 'Courier New', monospace`
-
-Settings &rarr; Workspace:
-
 - Enable `autoDetectColorScheme`
 - Set `preferredDarkColorTheme` and `preferredLightColorTheme`
